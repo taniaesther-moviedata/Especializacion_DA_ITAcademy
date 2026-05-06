@@ -1,4 +1,4 @@
-#Tasca S7.01. Iniciació al anàlisi de dades amb Power BI i indicadors
+# Tasca S7.01. Iniciació al anàlisi de dades amb Power BI i indicadors
 
 En esta sección se ponen en práctica los conceptos básicos de Power BI: creación de tabla calendario, establecimiento de relaciones activas e inactivas, 
 uso de visualizaciones, creación de medidas y tablas calculadas.
