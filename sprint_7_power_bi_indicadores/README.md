@@ -6,5 +6,7 @@ uso de visualizaciones, creación de medidas y tablas calculadas.
 También se ponen en práctica los conceptos estadísticos aprendidos para el análisis de los datos.
 
 Se trabaja con el mismo dataset que en ejercicios anteriores; dadas sus características de producto y para fines narrativos, 
-se han desarrollado una identidad visual y un nombre a la compañia: Galaxy & Throne 
+se han desarrollado una identidad visual y un nombre a la compañia: Galaxy & Throne, 
 dedicada al comercio de merchandasing de temática fantástica y de ciencia ficción.
+
+Revisión p2p por: SARA LUCÍA OSSA RUBIO
